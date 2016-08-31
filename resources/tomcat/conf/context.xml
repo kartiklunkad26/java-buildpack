@@ -19,5 +19,5 @@
    <Resource name="jdbc/TestDB" auth="Container" type="javax.sql.DataSource"
               maxActive="100" maxIdle="30" maxWait="10000"
               username="b84192f18d3656" password="cf1ca254" driverClassName="com.mysql.jdbc.Driver"
-              url="jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_c0d0e6a3c85afbd?user=b84192f18d3656&password=cf1ca254"/>
+              url="jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_c0d0e6a3c85afbd"/>
 </Context>
